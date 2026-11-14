@@ -15,7 +15,7 @@ Práctica 02 de ICC. Incluye dos programas: una clase para manejar fechas y otra
 
 // Contenido
 
-// `Fecha.java
+// `Fecha.java`
 Clase que representa una fecha (día, mes y año). Permite:
 - Crear fechas (con día/mes/año o con nombre del mes).
 - Asignar y obtener día, mes y año.
