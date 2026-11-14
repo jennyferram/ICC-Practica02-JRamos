@@ -33,4 +33,13 @@ Programa con main que simula una inversión:
 - Pide la fecha de inicio y la fecha de fin.
 - Calcula los días de la inversión y el rendimiento al 12%.
 - Permite hacer varias simulaciones seguidas.
+## Cómo compilar y ejecutar
+Desde la carpeta `practica02/src/icc/`:
+```bash
+# Compilar los dos archivos
+javac Fecha.java
+javac TiempoDeInversion.java
+
+# Ejecutar el programa
+java TiempoDeInversion
 
